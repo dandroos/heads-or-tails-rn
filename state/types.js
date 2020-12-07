@@ -1,0 +1,3 @@
+export const SET_TOSS_IN_PROGRESS = "SET_TOSS_IN_PROGRESS";
+export const SET_IS_HEADS = "SET_IS_HEADS";
+export const SET_ABOUT_DIALOG = "SET_ABOUT_DIALOG";
